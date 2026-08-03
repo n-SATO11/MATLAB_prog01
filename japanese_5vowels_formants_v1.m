@@ -2,13 +2,13 @@
 %  Author: Noboru SATO
 %    Date: 3 August 2026
 %
-% This program estimates the formants of the 5 Japanese vowels
-% and plots them on the F1-F2 plane, as assigned for a class task
-% in Audio Signal Processing.
+% This program estimates the formants of the 5 Japanese vowels and plots
+% them on the F1-F2 plane, as assigned for a class task in Audio Signal
+% Processing.
 % 
-% It reads an audio file containing the pronunciation of /aiueo/, 
-% and by labeling the waveform and spectrogram, it estimates the formants 
-% for each vowel and generates the F1-F2 plane.
+% It reads an audio file containing the pronunciation of /aiueo/, and by
+% labeling the waveform and spectrogram, it estimates the formants for each
+% vowel and generates the F1-F2 plane.
 % 
 
 
